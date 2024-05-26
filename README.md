@@ -22,5 +22,10 @@ Oyun oynanış videosuna buaradan ulaşabilirsiniz.
 
 
 
-Uploading My project (3) - baslangic - Windows, Mac, Linux - Unity 2022.3.18f1 _DX11_ 2024-05-26 14-20-21.mp4…
+
+Uploading İsimsiz video ‐ Clipchamp ile yapıldı.mp4…
+
+
+
+Uploading İsimsiz video ‐ Clipchamp ile yapıldı.mp4…
 
