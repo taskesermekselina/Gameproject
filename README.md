@@ -19,13 +19,19 @@ Oyun bitiğinde ise bizi bitiş ekranı karşılar .Yeniden başla buttonuna bas
 ![Ekran görüntüsü 2024-05-26 012631](https://github.com/taskesermekselina/Gameproject/assets/148469315/7fde267f-c7e0-4fab-bc2e-7383d3d0fecd)
 
 Oyun oynanış videosuna buaradan ulaşabilirsiniz.
+part1
 
 
+https://github.com/taskesermekselina/Gameproject/assets/148469315/a2ab2c39-f261-4496-9342-70b34bd697f7
 
 
-Uploading İsimsiz video ‐ Clipchamp ile yapıldı.mp4…
+part2
 
 
+https://github.com/taskesermekselina/Gameproject/assets/148469315/17db5369-e4f6-4fa1-a7bb-d9503a03d6a7
 
-Uploading İsimsiz video ‐ Clipchamp ile yapıldı.mp4…
+part3
+
+
+https://github.com/taskesermekselina/Gameproject/assets/148469315/c8c6fbe1-4541-4ca2-9b86-d73f28eef8d4
 
