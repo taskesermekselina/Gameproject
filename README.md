@@ -13,6 +13,6 @@ Bu sayede kullanıcın hem hafıza hem de matematiksel işlem becerilerini ölç
 Kullanıcın dikkat becerisini ise hem renklerin karmaşıklığı ,hem  yanlış cevabı yememeye çalışması hem de düşman nesnesine çarpmamasıyla ölçeriz
 Kullanıcı yanlış cevabı yerse -2 puan alır. 
 Düşman nesnesine  3 kere temas ederse  oyun biter.
-Oyunumuz 60 saniyeden oluşan kısa ,eğlenceli; kullanıcıların matematiksel ,hafıza,dikkat becerilerini ölçen zor bir oyundur
-Oyun bitiğinde ise bizi bitiş ekranı karşılar .Yeniden başla buttonuna basarak da oyuna yeniden başlayabiliriz
+Oyunumuz 60 saniyeden oluşan kısa ,eğlenceli; kullanıcıların matematiksel ,hafıza,dikkat becerilerini ölçen zor bir oyundur.
+Oyun bitiğinde ise bizi bitiş ekranı karşılar .Yeniden başla buttonuna basarak da oyuna yeniden başlayabiliriz.
 ![Ekran görüntüsü 2024-05-26 012631](https://github.com/taskesermekselina/Gameproject/assets/148469315/7fde267f-c7e0-4fab-bc2e-7383d3d0fecd)
